@@ -1,4 +1,4 @@
-## Path explaination
+## Project Structure
 In the **notebooks** folder there are the 4 python notebooks used for this project, that are:
 - [encoderchestx.ipynb](https://github.com/Absoluty02/DLA/blob/main/DL/notebooks/encoderchestx.ipynb), which contains the code to train the AutoencoderCNN and the VAE
 - [ff-mapper.ipynb](https://github.com/Absoluty02/DLA/blob/main/DL/notebooks/ff-mapper.ipynb), which contains the code to train the FF_mapper (using both GPT-2 and BioGPT)
